@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Autoresponder",
+  "description": "WhatsApp Autoresponder application featuring keyword-based auto-replies, Message log database, analytics dashboard, contact group management, 3rd-party API integration, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
