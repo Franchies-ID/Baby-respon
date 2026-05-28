@@ -2,7 +2,7 @@ name: Android CI
 
 on:
   push:
-    branches: [ "main" ] # Ganti dengan nama branch Anda jika bukan main
+    branches: [ "main" ]
 
 jobs:
   build:
